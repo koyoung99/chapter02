@@ -4,14 +4,14 @@ public class SongApp {
 
 	public static void main(String[] args) {
 
-		Song IU = new Song();
+		Song iu = new Song();
 
-		IU.setArtist("아이유");
-		IU.setTitle("Real");
-		IU.setAlbum("좋은날");
-		IU.setComposer("이민수");
-		IU.setTrack("3번 track");
-		IU.setYear(2010);
+		iu.setArtist("아이유");
+		iu.setTitle("Real");
+		iu.setAlbum("좋은날");
+		iu.setComposer("이민수");
+		iu.setTrack("3번 track");
+		iu.setYear(2010);
 
 		Song bigBang = new Song();
 
